@@ -20,13 +20,13 @@ body{
   color: white;
   font-size: 1.5em;
   letter-spacing: 4px
+}
 .biopic{
-   width: 400px;
+   width:500px;
    display: block;
     margin-left: auto;
     margin-right: auto;
-}
-}
+    }
 .container{
     width: 60%;
     margin: 0 auto;
@@ -38,11 +38,14 @@ body{
   font-size: 1.5em;
   color: white
 }
-#food{
+.food{
   font-size: 1.5em;
   color: white
 }  
-#foodpic{
+.foodpic{
   width:400px
+}
+.puppie{
+    width: 400px
 }
   
